@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Preetham</h1>
+<h1 align="center">Hi 👋, I'm Preetham Ghorpade</h1>
 <h3 align="center">🚀 Passionate Developer | Clean Code Enthusiast | Open Source Contributor</h3>
 
 <p align="center">
